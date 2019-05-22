@@ -1,3 +1,12 @@
+CREATE 4 QUEUES:
+
+KB_ID_IN
+KB_ID_OUT
+
+KB_NM_IN
+KB_NM_OUT
+
+
 {
   "orgId": "JPMORGAN"
 }
@@ -114,5 +123,7 @@
     }
   ]
 }
+
+
 
 
