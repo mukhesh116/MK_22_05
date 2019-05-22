@@ -1,0 +1,118 @@
+{
+  "orgId": "JPMORGAN"
+}
+
+{
+  "status": "200",
+  "statusMessage": {
+    "code": "SUCCESS",
+    "description": "Company profile details processed successfully."
+  },
+  "response": [
+    {
+      "companyId": "0828R3C3169TJ",
+      "companyStatus": "In-Active",
+      "companyName": "JPMORGAN LLC",
+      "companyCity": "ELKHART",
+      "companyState": "IN"
+    }
+  ]
+}
+
+{
+  "orgName": "JPMORGAN"
+}
+
+
+{
+  "status": "200",
+  "statusMessage": {
+    "code": "SUCCESS",
+    "description": "Company profile details processed successfully."
+  },
+  "response": [
+    {
+      "companyId": "0CNB5YS8JD87R",
+      "companyStatus": "No Account",
+      "companyName": "SSC CORP"
+    },
+    {
+      "companyId": "0LKB2MW6K1C77",
+      "companyStatus": "No Account",
+      "companyName": "JPMORGAN BROOKLYN"
+    }
+  ]
+}
+
+
+{
+  "orgName": "WELLSFARGO"
+}
+
+
+
+{
+  "status": "200",
+  "statusMessage": {
+    "code": "SUCCESS",
+    "description": "Company profile details processed successfully."
+  },
+  "response": [
+    {
+      "companyId": "0CNB5YS8JD87R",
+      "companyStatus": "No Account",
+      "companyName": "SSC CORP",
+      "equivalentBObj": {
+        "adminSystemType": "1000004",
+        "componentID": "3006145",
+        "adminSystemValue": "ENT",
+        "adminPartyId": "312413010"
+      }
+    },
+    {
+      "companyId": "0LKB2MW6K1C77",
+      "companyStatus": "No Account",
+      "companyName": "WELLSFARGO BROOKLYN",
+      "equivalentBObj": {
+        "adminSystemType": "1000003",
+        "componentID": "3006145",
+        "adminSystemValue": "ENT",
+        "adminPartyId": "312413002"
+      }
+    }
+  ]
+}
+
+
+{
+  "orgId": "WELLSFARGO"
+}
+
+
+
+{
+  "status": "200",
+  "statusMessage": {
+    "code": "SUCCESS",
+    "description": "Company profile details processed successfully."
+  },
+  "response": [
+    {
+      "companyId": "0828R3C3169TJ",
+      "companyStatus": "In-Active",
+      "companyName": "WELLSFARGO LLC",
+      "companyCity": "ELKHART",
+      "companyState": "IN",
+      "equivalentBObj": {
+        "adminSystemType": "1000009",
+        "componentID": "3006145",
+        "adminSystemValue": "ENT",
+        "adminPartyId": "990011790",
+        "startDate": "2004-02-25 00:00:00",
+        "endDate": "2019-05-14 04:23:08.107403"
+      }
+    }
+  ]
+}
+
+
